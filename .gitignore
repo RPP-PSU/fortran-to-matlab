@@ -1,0 +1,35 @@
+# MATLAB files
+*.asv
+*.mex*
+
+# Generated data files
+ifg_*.dat
+spec_*.dat
+simulation_parameters.txt
+
+# Generated plots
+*.png
+*.fig
+
+# MATLAB temporary files
+slprj/
+*.autosave
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+/tmp/
+*~
+*.tmp
+*.temp
